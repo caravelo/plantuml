@@ -1,0 +1,72 @@
+@startuml
+
+skinparam shadowing false
+skinparam roundcorner 5
+skinparam BackgroundColor #ffffff
+skinparam ArrowColor #333333
+
+skinparam default {
+    FontColor #333333
+    FontName Arial
+    FontSize 12
+    MonospacedFontName Source Code Pro
+}
+
+skinparam Actor {
+    BackgroundColor #ffffff
+    BorderColor #009dff
+}
+
+skinparam Node {
+    BackgroundColor #ffffff
+    BorderColor #009dff
+}
+
+skinparam Interface {
+    BackgroundColor #ffffff
+    BorderColor #009dff
+}
+
+skinparam Usecase {
+    BackgroundColor #ffffff
+    BorderColor #009dff
+}
+
+skinparam Rectangle {
+    BackgroundColor #ffffff
+    BorderColor #009dff
+}
+
+skinparam Note {
+    BackgroundColor #333333
+    BorderColor #ffffff
+    FontColor #ffffff
+}
+
+skinparam Package {
+    BackgroundColor #ffffff
+    BorderColor #009dff
+}
+
+skinparam Queue {
+    BackgroundColor #ffffff
+    BorderColor #009dff
+}
+
+skinparam Database {
+    BackgroundColor #ffffff
+    BorderColor #009dff
+}
+
+skinparam Participant {
+    BackgroundColor #009dff
+    BorderColor #009dff
+    FontColor #ffffff
+    FontStyle bold
+}
+
+skinparam Sequence {
+    LifeLineBorderColor #009dff
+}
+
+@enduml
