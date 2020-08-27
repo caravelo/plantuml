@@ -58,6 +58,12 @@ skinparam Package {
     BorderColor #009dff
 }
 
+skinparam Class {
+    BackgroundColor #F2FAFF
+    BorderColor #009dff
+    ArrowColor #009dff
+}
+
 skinparam Queue {
     BackgroundColor #ffffff
     BorderColor #009dff
