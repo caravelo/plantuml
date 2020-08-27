@@ -17,6 +17,16 @@ skinparam Actor {
     BorderColor #009dff
 }
 
+skinparam Boundary {
+    BackgroundColor #ffffff
+    BorderColor #009dff
+}
+
+skinparam Control {
+    BackgroundColor #ffffff
+    BorderColor #009dff
+}
+
 skinparam Node {
     BackgroundColor #ffffff
     BorderColor #009dff
