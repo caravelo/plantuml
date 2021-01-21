@@ -54,12 +54,13 @@ skinparam Note {
 }
 
 skinparam Package {
-    BackgroundColor #ffffff
+    BackgroundColor #fcfeff
     BorderColor #009dff
+    BorderThickness .5
 }
 
 skinparam Class {
-    BackgroundColor #F2FAFF
+    BackgroundColor #f2faff
     BorderColor #009dff
     ArrowColor #009dff
 }
