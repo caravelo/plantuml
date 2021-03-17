@@ -1,9 +1,10 @@
 @startuml
 
-skinparam shadowing false
 skinparam roundcorner 5
-skinparam BackgroundColor #ffffff
+skinparam shadowing false
+
 skinparam ArrowColor #333333
+skinparam BackgroundColor #ffffff
 
 skinparam default {
     FontColor #333333
@@ -79,6 +80,12 @@ skinparam Participant {
     BackgroundColor #009dff
     BorderColor #009dff
     FontColor #ffffff
+    FontStyle bold
+}
+
+skinparam State {
+    BackgroundColor #ffffff
+    BorderColor #009dff
     FontStyle bold
 }
 
