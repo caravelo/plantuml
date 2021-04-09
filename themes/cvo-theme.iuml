@@ -107,4 +107,12 @@ skinparam Sequence {
     MessageAlignment direction
 }
 
+skinparam Title {
+	BackgroundColor #eeeeee44
+	BorderColor #eeeeee
+	BorderThickness 1
+	FontStyle bold
+	FontSize 13
+}
+
 @enduml
