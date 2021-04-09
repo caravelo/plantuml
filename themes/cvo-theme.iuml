@@ -13,6 +13,13 @@ skinparam default {
     MonospacedFontName Source Code Pro
 }
 
+skinparam Activity {
+    ArrowColor #009dff
+    BackgroundColor #f2faff
+    BorderColor #009dff
+    DiamondBackgroundColor #fffaff
+}
+
 skinparam Actor {
     BackgroundColor #ffffff
     BorderColor #009dff
@@ -24,6 +31,11 @@ skinparam Boundary {
 }
 
 skinparam Control {
+    BackgroundColor #ffffff
+    BorderColor #009dff
+}
+
+skinparam Entity {
     BackgroundColor #ffffff
     BorderColor #009dff
 }
@@ -61,9 +73,10 @@ skinparam Package {
 }
 
 skinparam Class {
+    ArrowColor #009dff
     BackgroundColor #f2faff
     BorderColor #009dff
-    ArrowColor #009dff
+    Linetype ortho
 }
 
 skinparam Queue {
@@ -91,6 +104,7 @@ skinparam State {
 
 skinparam Sequence {
     LifeLineBorderColor #009dff
+    MessageAlignment direction
 }
 
 @enduml
