@@ -1,0 +1,4 @@
+@startuml
+!includeurl https://cdn.jsdelivr.net/gh/caravelo/plantuml/themes/cvo-theme.iuml
+!includeurl https://cdn.jsdelivr.net/gh/caravelo/plantuml/libs/cvo-utils.iuml
+@enduml
