@@ -51,7 +51,7 @@ skinparam Interface {
 }
 
 skinparam Usecase {
-    BackgroundColor #ffffff
+    BackgroundColor #f2faff
     BorderColor #009dff
 }
 
@@ -97,7 +97,7 @@ skinparam Participant {
 }
 
 skinparam State {
-    BackgroundColor #ffffff
+    BackgroundColor #f2faff
     BorderColor #009dff
     FontStyle bold
 }
