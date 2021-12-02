@@ -1,0 +1,11 @@
+@startuml
+
+!procedure $new($name)
+    <color:Green>$name</color>
+!endprocedure
+
+!procedure $deprecated($name)
+    <color:Red>--$name--</color>
+!endprocedure
+
+@enduml
